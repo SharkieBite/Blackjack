@@ -1,6 +1,6 @@
 # Project: Text-Based Blackjack (CPT Milestone 4)
 
-**Author:** Michael Mondaini  
+**Author:** SharkieBite
 **Date:** January 20, 2023  
 **Language:** Python  
 
